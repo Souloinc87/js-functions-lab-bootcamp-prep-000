@@ -8,6 +8,6 @@ function happyHolidaysTo(Serayah) {
 function happyHolidayTo(New Years, wife) {
   return `Happy ${New Years}, ${wife}!`
 }
-function holidaycountdown(New Years, 0) {
+function holidayCountdown(New Years, 0) {
   return `It's ${0} days until ${New Years}!`
 }
